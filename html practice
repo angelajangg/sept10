@@ -8,7 +8,7 @@
 </head>
 
 <body>
-	<h1 style='color:#ff0000; text-align:ceneter; font-size:80px'>My Practice Page</h1>
+	<h1 style='color:#ff0000; text-align:center; font-size:80px'>My Practice Page</h1>
 	<p>Hey, this is some text</p>
 	<p><strong style='color:#0000ff; font-size:40px'>more stuff</strong></p>
 </body>
